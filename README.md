@@ -3,6 +3,7 @@ ___________________________________________________
 HASIL TAMPILAN UI
 
 <img width="958" alt="tampilan" src="https://github.com/muhammadsafiudin/Medical-Diagnosis_2020-503/assets/102965363/8cdeeb36-a83f-4ba4-8988-8b0bb8dc5ae9">
+
 __________________________________________________
 HASIL Pencarian 
 
